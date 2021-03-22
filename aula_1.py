@@ -6,8 +6,8 @@ numero = 1234923142999
 string = 'Este é um teste de expressões regulares.'
 teste = '0123456789'
 
-# print(re.search(r'te', string))
-# print(re.findall(r'9', str(numero)))
+# print(re.search(r'te', string)) # pega somente o primeiro termo sem os comandos
+# print(re.findall(r'9', str(numero))) # acha todos 
 # print(re.sub(r'teste', 'ABCD', string))
 
 # regexp = re.compile(r'teste')
